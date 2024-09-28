@@ -25,7 +25,8 @@ body {
 .item {
     padding: 20px; 
     border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+    box-shadow: 8px 12px 8px rgba(217, 232, 13, 0.5);
+    z-index: 1; 
 }
 
 .item1 {
